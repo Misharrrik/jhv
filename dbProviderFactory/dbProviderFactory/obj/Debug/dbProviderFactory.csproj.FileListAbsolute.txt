@@ -1,0 +1,10 @@
+C:\Users\Взрослая академия\source\repos\jhv2\dbProviderFactory\dbProviderFactory\bin\Debug\dbProviderFactory.exe.config
+C:\Users\Взрослая академия\source\repos\jhv2\dbProviderFactory\dbProviderFactory\bin\Debug\dbProviderFactory.exe
+C:\Users\Взрослая академия\source\repos\jhv2\dbProviderFactory\dbProviderFactory\bin\Debug\dbProviderFactory.pdb
+C:\Users\Взрослая академия\source\repos\jhv2\dbProviderFactory\dbProviderFactory\obj\Debug\dbProviderFactory.csprojAssemblyReference.cache
+C:\Users\Взрослая академия\source\repos\jhv2\dbProviderFactory\dbProviderFactory\obj\Debug\dbProviderFactory.Form1.resources
+C:\Users\Взрослая академия\source\repos\jhv2\dbProviderFactory\dbProviderFactory\obj\Debug\dbProviderFactory.Properties.Resources.resources
+C:\Users\Взрослая академия\source\repos\jhv2\dbProviderFactory\dbProviderFactory\obj\Debug\dbProviderFactory.csproj.GenerateResource.cache
+C:\Users\Взрослая академия\source\repos\jhv2\dbProviderFactory\dbProviderFactory\obj\Debug\dbProviderFactory.csproj.CoreCompileInputs.cache
+C:\Users\Взрослая академия\source\repos\jhv2\dbProviderFactory\dbProviderFactory\obj\Debug\dbProviderFactory.exe
+C:\Users\Взрослая академия\source\repos\jhv2\dbProviderFactory\dbProviderFactory\obj\Debug\dbProviderFactory.pdb
